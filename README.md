@@ -3,6 +3,11 @@ Projec ETL - Miniproject - Arun Balaram
 Repo used for Miniproject
 Github link: https://github.com/Hbentahila/Crowdfunding_ETL.git
 
+Source of data
+contacts.xlsx
+crowdfunding.xlsx
+
+
 Project Intro/Objective
 The purpose of this project is to build an ETL pipeline using Python, pandas and then transforming the dataframes Once completedd, we then used Postgres SQL and Quick DBD to create an ERD Diagram along with Table Schemas. Each member created a Jupyter Notebook from each of the 4 databases that had to be created. Once completed, all 4 notebooks were merged into 1 notebook. An ERD Diagram was created to connect all 4 databases uses Quick DBD. The 4 csv files were then uploaded to the tables. 
 
