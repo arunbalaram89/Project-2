@@ -1,5 +1,7 @@
 Projec ETL - Miniproject - Arun Balaram
 
+Repo used for Miniproject
+Github link: 
 
 Project Intro/Objective
 The purpose of this project is to build an ETL pipeline using Python, pandas and then transforming the dataframes Once completedd, we then used Postgres SQL and Quick DBD to create an ERD Diagram along with Table Schemas. Each member created a Jupyter Notebook from each of the 4 databases that had to be created. Once completed, all 4 notebooks were merged into 1 notebook. An ERD Diagram was created to connect all 4 databases uses Quick DBD. 
@@ -31,80 +33,29 @@ The data was very messy, and had to be cleaned. Ex. the dates were timestamps, t
 
 Needs of this project
 
-data exploration/descriptive statistics
-data processing/cleaning
+Data exploration/descriptive statistics
+Data processing/cleaning
 statistical modeling
 writeup/reporting
 
 
 Getting Started
-Clone this repo
+Clone this repo 
 
-Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-If using offline data mention that and how they may obtain the data from the froup)
-
-Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
 In this project, attached are 4 csv files from the 4 dataframes created. Also attached is the ERD Diagram explaining the relationships, along with the primary and foreign keys. 
 
 
 
 Follow setup [instructions](Link to file)
-Featured Notebooks/Analysis/Deliverables
-Notebook/Markdown/Slide Deck Title
-Notebook/Markdown/Slide DeckTitle
-Blog Post
-Contributing DSWG Members
-Team Leads (Contacts) : [Full Name](Project Name
-This project is a part of the Data Science Working Group at Code for San Francisco. Other DSWG projects can be found at the main GitHub repo.
 
--- Project Status: [Active, On-Hold, Completed]
-Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-Partner
-[Name of Partner organization/Government department etc..]
-Website for partner
-Partner contact: [Name of Contact], [slack handle of contact if any]
-If you do not have a partner leave this section out
-Methods Used
-Inferential Statistics
-Machine Learning
-Data Visualization
-Predictive Modeling
-etc.
-Technologies
-R
-Python
-D3
-PostGres, MySql
-Pandas, jupyter
-HTML
-JavaScript
-etc.
-Project Description
-(Provide more detailed overview of the project. Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing? Feel free to number or bullet point things here)
-
-Needs of this project
-
-data exploration/descriptive statistics
-data processing/cleaning
-statistical modeling
-writeup/reporting
-
-Getting Started
-
-Clone this repo:
+ETL_Mini_Project_AShamsil_ABalaram_SSakkerwal_HBentahila.pynb - Merged Jupyter notebook 
+ETL_Mini_Project_Starter_Code_CAMPAIGN_Dataframe.pynb - my section 
 
 
-Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-If using offline data mention that and how they may obtain the data from the froup)
 
-Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
-etc...
 
 
 
