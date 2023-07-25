@@ -26,7 +26,6 @@ Pandas, jupyter
 
 
 Project Description
-(Provide more detailed overview of the project. Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing? Feel free to number or bullet point things here)
 
 The data was very messy, and had to be cleaned. Ex. the dates were timestamps, the contact dataframe was all in 1 column. We had to split the category and subcategory data. The first thing was find out the data types in each column of each dataframe. Then we changed some column's datatype to better analyze the data. For the category and subcategory, after splitting the columns
 
@@ -54,18 +53,6 @@ ETL_Mini_Project_Starter_Code_CAMPAIGN_Dataframe.pynb - my section
 
 
 
-
-
-
-
-
-Blog Post
-Contributing DSWG Members
-Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)
-
-Other Members:
-Name	Slack Handle
-(https://github.com/[github handle])
 
 
 
